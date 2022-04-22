@@ -1,0 +1,7 @@
+# 檔案名稱 .gitignore
+
+node_modules
+
+__pycache__
+
+*.cnf
